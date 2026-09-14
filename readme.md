@@ -86,6 +86,7 @@
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
+- [Instagram Transcript Generator](https://ruanjiange.com/instagram-transcript/) - Runs Whisper locally in the browser with no upload, and exports TXT and SRT.
 
 ### Self-hosted
 
